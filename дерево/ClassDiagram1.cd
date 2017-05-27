@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="дерево.AVL&lt;T&gt;" Collapsed="true">
+    <Position X="1.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAgAAIAAAAAAAAAEAAAAAAAAAAAAAARoICA=</HashCode>
+      <FileName>AVL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="дерево.BinTree&lt;T&gt;" Collapsed="true">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAACAAAAAAEABUAgAAAAgAABAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>BinTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="дерево.ArrayBST&lt;T&gt;" Collapsed="true">
+    <Position X="9" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAACAAAAAAEABUAAgAAAAAABAAAAAAAAAAAICAQ=</HashCode>
+      <FileName>BST.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="дерево.Node&lt;T&gt;" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAgACEAgAAAAAAAIAAAAAQAAAAAiA=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="дерево.NodeList&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="дерево.BinTreeNodes&lt;T&gt;" Collapsed="true">
+    <Position X="1.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAIAAAIAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="дерево.Tree&lt;T&gt;" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAABAAgAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Tree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="дерево.MWayTree&lt;T&gt;" Collapsed="true">
+    <Position X="6.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAABAAACAACAAAAABAIAAAAAAAAAAIIAAA=</HashCode>
+      <FileName>MWayTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="дерево.SplayTree&lt;T&gt;" Collapsed="true">
+    <Position X="7" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAACAAAAAEAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>BST.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="дерево.DynamicBST&lt;T&gt;" Collapsed="true">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>BST.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="дерево.Treap&lt;T&gt;" Collapsed="true">
+    <Position X="5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABAAEAAAAAAAAAAQAAAAIAAA=</HashCode>
+      <FileName>BST.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="дерево.BTree&lt;T&gt;" Collapsed="true">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAGAAAAAABAAAAABgAAAEAAAIAQAQAAAAAAAIAAA=</HashCode>
+      <FileName>BTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
